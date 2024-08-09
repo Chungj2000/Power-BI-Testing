@@ -6,7 +6,7 @@ Contains the ```pbix``` file of the dashboard and sample images as ```pdf```.
 
 <details>
   <summary>Beverage Sales within the US</summary>
-  <p>A single table [```data sample```](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmVEQmxYRmp3WU44S0Fud2U0M1VIMTdvVWJ3d3xBQ3Jtc0tuMGE5SmxMYVdwUkxHNExLZzBPcFIyNDZJdklhYS0tSTMxaWJzNnotWVZvLVZESHFVLThXUUI3UlI1enBDQkR5dWRxUHdxb0ZlQms1d25kREZmOXpfSzRPbW9HbDY2Q2tSSWR3TTF4M0xMZGF0OXFpRQ&q=https%3A%2F%2Fview.flodesk.com%2Fpages%2F64956a78e24707d60dfe48c7&v=NISsW-bVAwU) by [```Kenji Explains```](https://www.youtube.com/@KenjiExplains) detailing the orders of various beverages within the US. </p>
+  <p>A single table ['''data sample'''](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmVEQmxYRmp3WU44S0Fud2U0M1VIMTdvVWJ3d3xBQ3Jtc0tuMGE5SmxMYVdwUkxHNExLZzBPcFIyNDZJdklhYS0tSTMxaWJzNnotWVZvLVZESHFVLThXUUI3UlI1enBDQkR5dWRxUHdxb0ZlQms1d25kREZmOXpfSzRPbW9HbDY2Q2tSSWR3TTF4M0xMZGF0OXFpRQ&q=https%3A%2F%2Fview.flodesk.com%2Fpages%2F64956a78e24707d60dfe48c7&v=NISsW-bVAwU) by ['''Kenji Explains'''](https://www.youtube.com/@KenjiExplains) detailing the orders of various beverages within the US. </p>
   <p>Currently **WIP** and uses random numbers for various measures (e.g. budgets and forecasts) therefore numerical inaccuracies may be present.</p>
   <p>
     - [x] Import the data sample.

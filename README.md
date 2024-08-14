@@ -18,6 +18,13 @@ Currently **WIP** and uses random numbers for various measures (e.g. budgets and
     - [x] Create dummy data for comparison measures such as Forecasts and Budget.
     - [x] Implement KPI for relevant inforgraphics using comparison measures.
     - [x] Add conditional formatting as visual indicators for KPI.
-- [ ] Implement a structure for Beverages dashboard:
+- [x] Implement a structure for Orders dashboard:
+    - [x] Inforgraphics for the Orders by shipment size.
+    - [x] Cluster chart of Beverages and Shipment Sizes.
+    - [x] Cards visuals for: Revenue, Profit, and Units Sold.
+    - [x] A graph that compares Orders by Shipment Sizes.
+    - [x] Update card visuals with reference labels that compare the percentage difference between Shipment Sizes.
 - [ ] Implement a structure for Region dashboard:
-- [ ] Implement a structure for Shipments dashboard:
+    - [x] Break down of Units Sold by location categories and Shipment Sizes.
+    - [x] Map indicating density of Units Sold by US states.
+- [ ] Implement a structure for Beverages dashboard:

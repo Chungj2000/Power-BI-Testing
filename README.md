@@ -24,7 +24,11 @@ Currently **WIP** and uses random numbers for various measures (e.g. budgets and
     - [x] Cards visuals for: Revenue, Profit, and Units Sold.
     - [x] A graph that compares Orders by Shipment Sizes.
     - [x] Update card visuals with reference labels that compare the percentage difference between Shipment Sizes.
-- [ ] Implement a structure for Region dashboard:
+- [x] Implement a structure for Region dashboard:
     - [x] Break down of Units Sold by location categories and Shipment Sizes.
     - [x] Map indicating density of Units Sold by US states.
+    - [x] Gauge for identifying and comparing average values for corresponding decomposition graph.
+    - [x] Table of values for detailed field breakdown of regions.
 - [ ] Implement a structure for Beverages dashboard:
+    - [x] Graph for comparing revenue of beverages.
+    - [x] Graph for comparing units sold of beverages.

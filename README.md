@@ -11,7 +11,7 @@ Currently **WIP** and uses random numbers for various measures (e.g. budgets and
 - [x] Import the data sample.
 - [x] Structure the data and add any columns where needed.
 - [x] Implement a menu placeholder.
-- [ ] Finalise menu.
+- [x] Finalise menu (may update in the future).
 - [x] Implement a structure for the Sales dashboard:
     - [x] Add filters and categories for relevant metrics.
     - [x] Add infographics for sales.

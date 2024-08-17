@@ -29,6 +29,8 @@ Currently **WIP** and uses random numbers for various measures (e.g. budgets and
     - [x] Map indicating density of Units Sold by US states.
     - [x] Gauge for identifying and comparing average values for corresponding decomposition graph.
     - [x] Table of values for detailed field breakdown of regions.
-- [ ] Implement a structure for Beverages dashboard:
+- [x] Implement a structure for Beverages dashboard:
     - [x] Graph for comparing revenue of beverages.
     - [x] Graph for comparing units sold of beverages.
+    - [x] Line/bar chart for operating margin + contribution to total revenue.
+    - [x] Table of values for beverages.

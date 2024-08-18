@@ -34,3 +34,10 @@ Uses random numbers for various measures not included in sample data (e.g. budge
     - [x] Graph for comparing units sold of beverages.
     - [x] Line/bar chart for operating margin + contribution to total revenue.
     - [x] Table of values for beverages.
+
+### Stack Overflow Insight Survey Results 2024
+A dataset containing the results table of [Stack Overflow's Insight Survey](https://survey.stackoverflow.co/?ref=hackernoon.com). <br />
+Currently **WIP**.
+
+- [x] Import the dataset.
+- [ ] Clean the dataset.

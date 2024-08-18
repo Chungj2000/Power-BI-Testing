@@ -1,5 +1,5 @@
 # Power BI Testing
-A repository containing samples for Power BI dashboards.
+A repository containing practice Power BI dashboards using public datasets.
 
 ## Contents
 Contains the ```pbix``` file of the dashboard and sample images as ```pdf```.

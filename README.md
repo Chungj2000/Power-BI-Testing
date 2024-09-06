@@ -42,4 +42,4 @@ Currently **WIP**.
 - [x] Import the dataset.
 - [ ] Clean the dataset.
 
-**Note:** <br /> I plan to redo the data transformation in a new PBIX then migrate it over. This is due to the multiple choice questions present which complicate data modeling.
+**Note:** <br /> I plan to redo the data transformation in a new ```pbix``` then migrate it over. This is due to the multiple choice questions present which complicate data modeling.

@@ -53,5 +53,4 @@ Currently **WIP**.
         - [x] Merge queries for dimensions into the fact table using their respective IDs.
     - [x] Establish relationships for fact tables, dimensions, and reference tables.
 - [x] Migrate measures and visuals to be compatible with the new data model.
-      
-**Note:** <br /> I plan to redo the data transformation in a new ```pbix``` then migrate it over. This is due to the multiple choice questions present which complicate data modeling.
+

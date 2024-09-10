@@ -40,6 +40,18 @@ A dataset containing the results table of [Stack Overflow's Developer Survey](ht
 Currently **WIP**.
 
 - [x] Import the dataset.
-- [ ] Clean the dataset.
-
+- [x] Clean the dataset.
+    - [x] Remove redundant fields.
+    - [x] Replace blanks.
+    - [x] Set datatypes of relevant fields.
+    - [x] Transform the flat table into a data model.
+        - [x] Split the flat table into a fact tables and dimensions.
+        - [x] Remove duplicates of dimensions.
+        - [x] Create an index column as the ID.
+        - [x] Split multiple choice questions into their own reference table using the dimension table ID as their key.
+        - [x] Split the delimiter of said reference tables into rows so they can be counted.
+        - [x] Merge queries for dimensions into the fact table using their respective IDs.
+    - [x] Establish relationships for fact tables, dimensions, and reference tables.
+- [x] Migrate measures and visuals to be compatible with the new data model.
+      
 **Note:** <br /> I plan to redo the data transformation in a new ```pbix``` then migrate it over. This is due to the multiple choice questions present which complicate data modeling.
